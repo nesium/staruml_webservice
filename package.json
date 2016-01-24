@@ -1,0 +1,17 @@
+{
+  "name": "com.nesium.staruml.webservice",
+  "title": "StarUML Webservice",
+  "description": "Plugin for generating Code for iOS related Webservices",
+  "homepage": "https://github.com/nesium/staruml_webservice.git",
+  "version": "0.0.1",
+  "keywords": ["swift", "staruml", "js", "UML", "bookshelf.js"],
+  "author": {
+    "name": "Marc Bauer",
+    "email": "mb@nesium.com",
+    "url": "https://github.com/nesium"
+  },
+  "license": "MIT",
+  "engines": {
+    "staruml": ">=2.0.0"
+  }
+}
